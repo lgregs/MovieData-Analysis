@@ -2,11 +2,8 @@
 
 Here I'll place a few Python Notebooks with:
 
+Data cleaning and preparation
 
-data preparation
+Analysis containing graphics
 
-cleaning
-
-analysis containing graphics
-
-and also Machine Learinng Models.
+And also Machine Learinng and Deep Learning Models.
