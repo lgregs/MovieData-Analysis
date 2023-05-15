@@ -6,4 +6,4 @@ Data cleaning and preparation
 
 Analysis containing graphics
 
-And also Machine Learinng and Deep Learning Models.
+And also Machine Learning and Deep Learning Models.
